@@ -3,37 +3,38 @@
         { 
          "product_id" : 1,
          "product_name": "Mesh Backboard Inground Hoop",
-         "desc" : "this is desc 1",
-         "price": 750
+         "desc" : "This basket goes into the ground and can hold a weight of 300kg. It is all galvanised steel and the mesh backboard allows for wind to go through it meaning it is suitable in windy areas.",
+         "price": 750,
+         "imgPath": "images/product1"
         },
         { 
          "product_id" : 2,
          "product_name": "Heavy Duty On Wall Hoop",
-         "desc" : "this is desc 2",
+         "desc" : "This basket is attached to the wall. It can withstand a weight of 400kg. It is made of high quality steel and the backboard is made of plexiglass which means it is hard to shatter. It can be used as the main basket or a side basket.",
          "price": 1000
         },
         { 
          "product_id" : 3,
          "product_name": "Plastic Backboard Inground Hoop",
-         "desc" : "this is desc 2",
+         "desc" : "This basket is a ideal basket for schools. The plastic backboard is very strong and durable. All metal components are galvanised and/or powder coated. This provides a long lasting basket for any customer.",
          "price": 700
         },
         { 
          "product_id" : 4,
          "product_name": "Professional Heavy Duty Inground Hoop",
-         "desc" : "this is desc 2",
+         "desc" : "This basket is a high range model. It can be used in the professional scene or it can be installed in someone's backgarden it is heavy duty and can withstand 400kg weight and is height adjustable from 8 feet to 10 feet.",
          "price": 2000
         },
         { 
          "product_id" : 5,
          "product_name": "Heavy Duty Side Wall Hoop",
-         "desc" : "this is desc 2",
+         "desc" : "This basket is a durable heavy duty unit. It can be moved to the side when not in use and is made from high quality steel. It is attached to the side walls of a gym and is great for warm ups for any age as it can be height adjusted.",
          "price": 400
         },
         { 
          "product_id" : 6,
          "product_name": "Side Wall Hoop",
-         "desc" : "this is desc 2",
+         "desc" : "This basket is our cheapest model. It has five different height settings and is great for practising shooting. It is mounted onto the side walls of a basketball gym and it is made from high quality steel and a durable plastic backboard.",
          "price": 250
         }
    ]
